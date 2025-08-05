@@ -24,7 +24,10 @@ I'm a passionate **Full Stack Developer** with a strong foundation in the **MERN
 | 🔁 State Mgmt | ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)         |
 | 🌐 Backend    | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
 | 🛢️ Database   | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)   |
-| 🧰 Tools      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| 🧰 Tools      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+
 
 ---
 
